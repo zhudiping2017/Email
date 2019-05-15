@@ -16,9 +16,7 @@ import java.util.Map;
 import java.util.Properties;
 import java.util.Random;
 
-/**
- * Created by 16682 on 2019/3/26.
- */
+
 public class SendEmail {
 
     public static void main(String[] args) throws GeneralSecurityException {
